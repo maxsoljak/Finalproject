@@ -1,0 +1,4 @@
+Network,1100
+Cyber team,6000
+Costumer Service,2000
+Secret service,7500
